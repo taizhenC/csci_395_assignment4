@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "creator": "Nintendo",
+      "year": 2017,
+      "genre": "Adventure",
+      "status": "done",
+      "rating": 5,
+      "note": "Best open world I have ever played."
+    },
+    {
+      "id": 2,
+      "title": "Elden Ring",
+      "creator": "FromSoftware",
+      "year": 2022,
+      "genre": "RPG",
+      "status": "done",
+      "rating": 5,
+      "note": "Died a lot. Loved every minute."
+    },
+    {
+      "id": 3,
+      "title": "Hades",
+      "creator": "Supergiant Games",
+      "year": 2020,
+      "genre": "Roguelike",
+      "status": "done",
+      "rating": 4,
+      "note": "Just one more run..."
+    },
+    {
+      "id": 4,
+      "title": "Hollow Knight",
+      "creator": "Team Cherry",
+      "year": 2017,
+      "genre": "Metroidvania",
+      "status": "active",
+      "rating": null,
+      "note": "Stuck on the Mantis Lords."
+    },
+    {
+      "id": 5,
+      "title": "Baldur's Gate 3",
+      "creator": "Larian Studios",
+      "year": 2023,
+      "genre": "RPG",
+      "status": "active",
+      "rating": null,
+      "note": "In Act 2, playing a bard."
+    },
+    {
+      "id": 6,
+      "title": "Stardew Valley",
+      "creator": "ConcernedApe",
+      "year": 2016,
+      "genre": "Simulation",
+      "status": "active",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 7,
+      "title": "Portal 2",
+      "creator": "Valve",
+      "year": 2011,
+      "genre": "Puzzle",
+      "status": "done",
+      "rating": 5,
+      "note": "The ending song is a classic."
+    },
+    {
+      "id": 8,
+      "title": "Celeste",
+      "creator": "Maddy Makes Games",
+      "year": 2018,
+      "genre": "Platformer",
+      "status": "done",
+      "rating": 4,
+      "note": "Hard but fair."
+    },
+    {
+      "id": 9,
+      "title": "Cyberpunk 2077",
+      "creator": "CD Projekt Red",
+      "year": 2020,
+      "genre": "RPG",
+      "status": "dropped",
+      "rating": 2,
+      "note": "Too buggy at launch. Might retry after patches."
+    },
+    {
+      "id": 10,
+      "title": "Anthem",
+      "creator": "BioWare",
+      "year": 2019,
+      "genre": "Shooter",
+      "status": "dropped",
+      "rating": 1,
+      "note": "Got repetitive fast."
+    },
+    {
+      "id": 11,
+      "title": "Fallout 76",
+      "creator": "Bethesda",
+      "year": 2018,
+      "genre": "RPG",
+      "status": "dropped",
+      "rating": 2,
+      "note": null
+    },
+    {
+      "id": 12,
+      "title": "The Witcher 3: Wild Hunt",
+      "creator": "CD Projekt Red",
+      "year": 2015,
+      "genre": "RPG",
+      "status": "done",
+      "rating": 5,
+      "note": "Blood and Wine is peak DLC."
+    },
+    {
+      "id": 13,
+      "title": "Outer Wilds",
+      "creator": "Mobius Digital",
+      "year": 2019,
+      "genre": "Adventure",
+      "status": "want",
+      "rating": null,
+      "note": "Everyone says to go in blind."
+    },
+    {
+      "id": 14,
+      "title": "Disco Elysium",
+      "creator": "ZA/UM",
+      "year": 2019,
+      "genre": "RPG",
+      "status": "want",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 15,
+      "title": "Sekiro: Shadows Die Twice",
+      "creator": "FromSoftware",
+      "year": 2019,
+      "genre": "Action",
+      "status": "want",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 16,
+      "title": "Slay the Spire",
+      "creator": "MegaCrit",
+      "year": 2019,
+      "genre": "Roguelike",
+      "status": "active",
+      "rating": null,
+      "note": "Trying to beat Ascension 20."
+    },
+    {
+      "id": 17,
+      "title": "Minecraft",
+      "creator": "Mojang",
+      "year": 2011,
+      "genre": "Sandbox",
+      "status": "done",
+      "rating": 5,
+      "note": null
+    },
+    {
+      "id": 18,
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "creator": "Nintendo",
+      "year": 2023,
+      "genre": "Adventure",
+      "status": "want",
+      "rating": null,
+      "note": "Waiting for a sale."
+    },
+    {
+      "id": 19,
+      "title": "Doom Eternal",
+      "creator": "id Software",
+      "year": 2020,
+      "genre": "Shooter",
+      "status": "dropped",
+      "rating": 3,
+      "note": "Too intense for me."
+    },
+    {
+      "id": 20,
+      "title": "Undertale",
+      "creator": "Toby Fox",
+      "year": 2015,
+      "genre": "RPG",
+      "status": "done",
+      "rating": 4,
+      "note": "Finished the pacifist route."
+    },
+    {
+      "id": 21,
+      "title": "Factorio",
+      "creator": "Wube Software",
+      "year": 2020,
+      "genre": "Simulation",
+      "status": "active",
+      "rating": null,
+      "note": "The factory must grow."
+    }
+  ]
+}
