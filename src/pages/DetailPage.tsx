@@ -33,12 +33,12 @@ export default function DetailPage() {
       queryClient.invalidateQueries({ queryKey: ["items"] }),
   });
 
-  if (isLoading) return <p>Loading game...</p>;
-  if (isError) return <p className="text-red-600">Could not load this game.</p>;
+  if (isLoading) return <p>Loading anime...</p>;
+  if (isError) return <p className="text-red-600">Could not load this anime.</p>;
   if (!data)
     return (
       <div>
-        <p className="mb-2 text-xl">Not found — no game with id "{params.id}".</p>
+        <p className="mb-2 text-xl">Not found — no anime with id "{params.id}".</p>
         <Link to="/" className="text-blue-600 hover:underline dark:text-blue-400">
           Back to catalog
         </Link>
@@ -108,7 +108,7 @@ export default function DetailPage() {
           defaultValue={data.note ?? ""}
           rows={3}
           className="mb-2 w-full rounded border border-gray-300 p-2 dark:border-gray-600 dark:bg-gray-800"
-          placeholder="Write a note about this game..."
+          placeholder="Write a note about this anime..."
         />
         <button
           type="submit"
