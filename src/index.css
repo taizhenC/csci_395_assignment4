@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* Make dark: classes follow the .dark class instead of the OS setting,
+   so the Zustand theme toggle controls it. */
+@custom-variant dark (&:where(.dark, .dark *));
