@@ -17,7 +17,7 @@ export default function NavBar() {
   return (
     <nav className="bg-white shadow dark:bg-gray-800">
       <div className="mx-auto flex max-w-4xl flex-wrap items-center gap-1 p-3 text-sm sm:text-base">
-        <span className="mr-2 font-bold">🎮 GameVault</span>
+        <span className="mr-2 font-bold">📺 AniVault</span>
         <NavLink to="/" end className={linkClass}>
           Home
         </NavLink>

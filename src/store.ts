@@ -23,7 +23,7 @@ export const useUiStore = create<UiState>()(
       setDensity: (density) => set({ density }),
     }),
     {
-      name: "gamevault.ui",
+      name: "anivault.ui",
       // partialize: only save the data, not the action functions
       partialize: (state) => ({ theme: state.theme, density: state.density }),
     }

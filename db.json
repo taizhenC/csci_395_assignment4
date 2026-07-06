@@ -2,213 +2,213 @@
   "items": [
     {
       "id": 1,
-      "title": "The Legend of Zelda: Breath of the Wild",
-      "creator": "Nintendo",
-      "year": 2017,
-      "genre": "Adventure",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "creator": "Bones",
+      "year": 2009,
+      "genre": "Action",
       "status": "done",
       "rating": 5,
-      "note": "wide"
+      "note": "Perfect ending. Nothing wasted."
     },
     {
       "id": 2,
-      "title": "Elden Ring",
-      "creator": "FromSoftware",
-      "year": 2022,
-      "genre": "RPG",
+      "title": "Attack on Titan",
+      "creator": "Wit Studio",
+      "year": 2013,
+      "genre": "Action",
       "status": "done",
       "rating": 5,
-      "note": "Died a lot. Loved every minute."
+      "note": "The basement reveal was worth the wait."
     },
     {
       "id": 3,
-      "title": "Hades",
-      "creator": "Supergiant Games",
-      "year": 2020,
-      "genre": "Roguelike",
+      "title": "Demon Slayer",
+      "creator": "ufotable",
+      "year": 2019,
+      "genre": "Action",
       "status": "done",
       "rating": 4,
-      "note": "Just one more run..."
+      "note": "The animation carries it."
     },
     {
       "id": 4,
-      "title": "Hollow Knight",
-      "creator": "Team Cherry",
-      "year": 2017,
-      "genre": "Metroidvania",
+      "title": "Jujutsu Kaisen",
+      "creator": "MAPPA",
+      "year": 2020,
+      "genre": "Action",
       "status": "active",
       "rating": null,
-      "note": "Stuck on the Mantis Lords."
+      "note": "Shibuya arc is wild."
     },
     {
       "id": 5,
-      "title": "Baldur's Gate 3",
-      "creator": "Larian Studios",
-      "year": 2023,
-      "genre": "RPG",
+      "title": "One Piece",
+      "creator": "Toei Animation",
+      "year": 1999,
+      "genre": "Adventure",
       "status": "active",
       "rating": null,
-      "note": "In Act 2, playing a bard."
+      "note": "Around episode 400. Long road ahead."
     },
     {
       "id": 6,
-      "title": "Stardew Valley",
-      "creator": "ConcernedApe",
-      "year": 2016,
-      "genre": "Simulation",
+      "title": "Frieren: Beyond Journey's End",
+      "creator": "Madhouse",
+      "year": 2023,
+      "genre": "Fantasy",
       "status": "active",
       "rating": null,
       "note": null
     },
     {
       "id": 7,
-      "title": "Portal 2",
-      "creator": "Valve",
-      "year": 2011,
-      "genre": "Puzzle",
+      "title": "Spirited Away",
+      "creator": "Studio Ghibli",
+      "year": 2001,
+      "genre": "Fantasy",
       "status": "done",
       "rating": 5,
-      "note": "The ending song is a classic."
+      "note": "A movie counts, right?"
     },
     {
       "id": 8,
-      "title": "Celeste",
-      "creator": "Maddy Makes Games",
-      "year": 2018,
-      "genre": "Platformer",
+      "title": "Your Name",
+      "creator": "CoMix Wave Films",
+      "year": 2016,
+      "genre": "Romance",
       "status": "done",
       "rating": 4,
-      "note": "Hard but fair."
+      "note": "The twist actually got me."
     },
     {
       "id": 9,
-      "title": "Cyberpunk 2077",
-      "creator": "CD Projekt Red",
-      "year": 2020,
-      "genre": "RPG",
+      "title": "Sword Art Online",
+      "creator": "A-1 Pictures",
+      "year": 2012,
+      "genre": "Isekai",
       "status": "dropped",
       "rating": 2,
-      "note": "Too buggy at launch. Might retry after patches."
+      "note": "Fell off hard after the first arc."
     },
     {
       "id": 10,
-      "title": "Anthem",
-      "creator": "BioWare",
-      "year": 2019,
-      "genre": "Shooter",
+      "title": "The Promised Neverland Season 2",
+      "creator": "CloverWorks",
+      "year": 2021,
+      "genre": "Thriller",
       "status": "dropped",
       "rating": 1,
-      "note": "Got repetitive fast."
+      "note": "They skipped an entire manga arc."
     },
     {
       "id": 11,
-      "title": "Fallout 76",
-      "creator": "Bethesda",
-      "year": 2018,
-      "genre": "RPG",
+      "title": "Ex-Arm",
+      "creator": "Visual Flight",
+      "year": 2021,
+      "genre": "Sci-Fi",
       "status": "dropped",
-      "rating": 2,
+      "rating": 1,
       "note": null
     },
     {
       "id": 12,
-      "title": "The Witcher 3: Wild Hunt",
-      "creator": "CD Projekt Red",
-      "year": 2015,
-      "genre": "RPG",
+      "title": "Steins;Gate",
+      "creator": "White Fox",
+      "year": 2011,
+      "genre": "Sci-Fi",
       "status": "done",
       "rating": 5,
-      "note": "Blood and Wine is peak DLC."
+      "note": "El Psy Kongroo."
     },
     {
       "id": 13,
-      "title": "Outer Wilds",
-      "creator": "Mobius Digital",
+      "title": "Vinland Saga",
+      "creator": "Wit Studio",
       "year": 2019,
-      "genre": "Adventure",
+      "genre": "Drama",
       "status": "want",
       "rating": null,
-      "note": "Everyone says to go in blind."
+      "note": "Everyone says season 2 is peak."
     },
     {
       "id": 14,
-      "title": "Disco Elysium",
-      "creator": "ZA/UM",
-      "year": 2019,
-      "genre": "RPG",
+      "title": "Monster",
+      "creator": "Madhouse",
+      "year": 2004,
+      "genre": "Thriller",
       "status": "want",
       "rating": null,
       "note": null
     },
     {
       "id": 15,
-      "title": "Sekiro: Shadows Die Twice",
-      "creator": "FromSoftware",
-      "year": 2019,
-      "genre": "Action",
+      "title": "Cowboy Bebop",
+      "creator": "Sunrise",
+      "year": 1998,
+      "genre": "Sci-Fi",
       "status": "want",
       "rating": null,
-      "note": null
+      "note": "The classic I still have not seen."
     },
     {
       "id": 16,
-      "title": "Slay the Spire",
-      "creator": "MegaCrit",
-      "year": 2019,
-      "genre": "Roguelike",
+      "title": "Mob Psycho 100",
+      "creator": "Bones",
+      "year": 2016,
+      "genre": "Comedy",
       "status": "active",
       "rating": null,
-      "note": "Trying to beat Ascension 20."
+      "note": "Season 1 done, starting season 2."
     },
     {
       "id": 17,
-      "title": "Minecraft",
-      "creator": "Mojang",
-      "year": 2011,
-      "genre": "Sandbox",
+      "title": "Death Note",
+      "creator": "Madhouse",
+      "year": 2006,
+      "genre": "Thriller",
       "status": "done",
-      "rating": 5,
-      "note": null
+      "rating": 4,
+      "note": "First half is a 5, second half a 3."
     },
     {
       "id": 18,
-      "title": "The Legend of Zelda: Tears of the Kingdom",
-      "creator": "Nintendo",
-      "year": 2023,
-      "genre": "Adventure",
+      "title": "Chainsaw Man",
+      "creator": "MAPPA",
+      "year": 2022,
+      "genre": "Action",
       "status": "want",
       "rating": null,
-      "note": "Waiting for a sale."
+      "note": "Waiting until I finish Jujutsu Kaisen."
     },
     {
       "id": 19,
-      "title": "Doom Eternal",
-      "creator": "id Software",
-      "year": 2020,
-      "genre": "Shooter",
+      "title": "Berserk (2016)",
+      "creator": "GEMBA",
+      "year": 2016,
+      "genre": "Dark Fantasy",
       "status": "dropped",
-      "rating": 3,
-      "note": "Too intense for me."
+      "rating": 2,
+      "note": "The CGI... just read the manga."
     },
     {
       "id": 20,
-      "title": "Undertale",
-      "creator": "Toby Fox",
-      "year": 2015,
-      "genre": "RPG",
+      "title": "Violet Evergarden",
+      "creator": "Kyoto Animation",
+      "year": 2018,
+      "genre": "Drama",
       "status": "done",
       "rating": 4,
-      "note": "Finished the pacifist route."
+      "note": "Episode 10 broke me."
     },
     {
       "id": 21,
-      "title": "Factorio",
-      "creator": "Wube Software",
-      "year": 2020,
-      "genre": "Simulation",
+      "title": "Hunter x Hunter",
+      "creator": "Madhouse",
+      "year": 2011,
+      "genre": "Adventure",
       "status": "active",
       "rating": null,
-      "note": "The factory must grow."
+      "note": "In the middle of the Chimera Ant arc."
     }
   ]
 }

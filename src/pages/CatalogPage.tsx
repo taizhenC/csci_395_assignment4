@@ -16,11 +16,11 @@ export default function CatalogPage() {
     queryFn: getItems,
   });
 
-  if (isLoading) return <p>Loading games...</p>;
+  if (isLoading) return <p>Loading anime...</p>;
   if (isError)
     return (
       <p className="text-red-600">
-        Could not load games. Is json-server running on port 3001?
+        Could not load anime. Is json-server running on port 3001?
       </p>
     );
 
@@ -34,7 +34,7 @@ export default function CatalogPage() {
   return (
     <div>
       <h1 className="mb-3 text-2xl font-bold capitalize">
-        {status ? `${status} games` : "All games"}
+        {status ? `${status} anime` : "All anime"}
       </h1>
       <input
         value={q}
@@ -49,7 +49,7 @@ export default function CatalogPage() {
         placeholder="Search by title..."
         className="mb-4 w-full rounded border border-gray-300 bg-white p-2 dark:border-gray-600 dark:bg-gray-800"
       />
-      {visible.length === 0 && <p>No games found.</p>}
+      {visible.length === 0 && <p>No anime found.</p>}
       <ul className={density === "compact" ? "space-y-1" : "space-y-3"}>
         {visible.map((item) => (
           <ItemCard key={item.id} item={item} />
